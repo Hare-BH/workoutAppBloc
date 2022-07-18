@@ -60,7 +60,7 @@ class WorkoutPage extends StatelessWidget {
               ),
             );
           } else {
-            return const Text('something went wrong');
+            return const Text('test1');
           }
         },
       ),
