@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.all(30),
                   child: Text(
-                    'Hi ${Authentication.username}!\nReady to bla',
+                    'Hi ${Authentication.username}!\nReady to workout? bla',
                     textAlign: TextAlign.left,
                     style: kHeaderText,
                   ),
